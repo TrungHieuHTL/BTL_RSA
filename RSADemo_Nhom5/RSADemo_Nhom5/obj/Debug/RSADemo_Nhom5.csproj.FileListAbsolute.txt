@@ -1,0 +1,15 @@
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\bin\Debug\RSADemo_Nhom5.exe.config
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\bin\Debug\RSADemo_Nhom5.exe
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\bin\Debug\RSADemo_Nhom5.pdb
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5.csproj.AssemblyReference.cache
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\MainWindow.g.cs
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\App.g.cs
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5_MarkupCompile.cache
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5_MarkupCompile.lref
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\MainWindow.baml
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5.g.resources
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5.Properties.Resources.resources
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5.csproj.GenerateResource.cache
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5.csproj.CoreCompileInputs.cache
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5.exe
+D:\Lập Trình .NET\RSADemo_Nhom5\RSADemo_Nhom5\obj\Debug\RSADemo_Nhom5.pdb
